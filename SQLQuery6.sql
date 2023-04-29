@@ -1,0 +1,1 @@
+﻿insert into custtable values('roshan','111');
